@@ -2,7 +2,7 @@
 
 👨‍🎓 Graduated in Industrial Engineering by the University of Vigo (Spain) in 2010
 
-💻 Working as Freelance: QA Engineer and Software Developer
+💻 Working as Freelance: QA Automation Engineer and Software Developer
 
 <img height="18" src="python-logo-only.svg"/> Junior pythonista
 
